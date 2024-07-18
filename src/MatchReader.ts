@@ -8,7 +8,7 @@ interface DataReader {
   data: string[][];
 }
 
-export class MatchREader {
+export class MatchReader {
   matches: MatchData[] = [];
 
   constructor(public reader: DataReader) {}
