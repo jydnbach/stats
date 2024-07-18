@@ -12,4 +12,4 @@ const matchReader = new MatchReader(csvFileReader);
 matchReader.load();
 // matchReader.matches
 
-console.log(`Man United won ${manUnitedWins} games`);
+// console.log(`Man United won ${manUnitedWins} games`); s
