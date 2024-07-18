@@ -12,4 +12,4 @@ export class Summary {
   constructor(public analyzer: Analyzer, public outputTarger: OutputTarget) {}
 }
 
-new Summary(new WinsAnalysis(), new ConsoleReport());
+// new Summary(new WinsAnalysis(), new ConsoleReport());
